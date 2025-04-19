@@ -28,3 +28,5 @@ Thumbs.db
 # Journal ou logs (si activés)
 *.log
 logs/
+
+ models/*.gguf
