@@ -1,0 +1,30 @@
+# Environnement virtuel Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# Fichiers lourds non versionnés
+*.gguf
+*.npy
+*.npy.*
+*.npy~
+
+# Données utilisateur locales
+embeddings/
+chunks/
+models/
+
+# Sauvegardes d'éditeurs
+*.swp
+*.bak
+*.tmp
+*~
+
+# OS & fichiers invisibles
+.DS_Store
+Thumbs.db
+
+# Journal ou logs (si activés)
+*.log
+logs/

@@ -1,0 +1,12 @@
+# Paquets essentiels pour KAWA-ADMIN sur UserLAnd
+
+python3
+python3-pip
+python3-venv
+build-essential
+libopenblas-dev
+libatlas-base-dev
+git
+curl
+wget
+cmake
